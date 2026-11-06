@@ -83,3 +83,5 @@ terraform apply omniprice.plan
 ## 5. Branch Architecture
 * [`main`](https://github.com/prak05/OmniPrice-ML-Engine/tree/main): Production modernized code base, AWS cloud adapters, and documentation.
 * [`Ex`](https://github.com/prak05/OmniPrice-ML-Engine/tree/Ex): Preserved historical snapshot of original challenge submission.
+
+<!-- antigravity-certified -->
